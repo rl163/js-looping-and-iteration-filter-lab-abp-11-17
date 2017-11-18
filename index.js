@@ -7,5 +7,4 @@ function findMatching(drivers, name){
       return false
     }
   })
-  return matchingDrivers;
 }
